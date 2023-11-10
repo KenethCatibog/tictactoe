@@ -13,3 +13,7 @@ require_once "functions.php";
 <body>
 
     <div class="wrapper">
+    </div>
+</body>
+</html>
+
